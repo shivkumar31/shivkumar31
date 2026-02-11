@@ -2,7 +2,7 @@
 <h3 align="center">Integrated M.Tech CSE (Computational & Data Science) Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Developer;Big+Data+Explorer;Cloud+Computing+Learner;Passionate+About+Data+Driven+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=650&lines=Data+Science+Enthusiast;Machine+Learning+Developer;Big+Data+Explorer;Cloud+Computing+Learner;Passionate+About+Data+Driven+Solutions" />
 </p>
 
 ---
@@ -29,58 +29,18 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
-</p>
-
----
-
-### 📊 Data Science & Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" />
-</p>
-
-✔ Supervised & Unsupervised Learning  
-✔ Feature Engineering  
-✔ Predictive Modeling  
-✔ Statistical Analysis  
-
----
-
-### ☁️ Big Data & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-✔ PySpark  
-✔ Apache Spark  
-✔ AWS S3  
-✔ AWS EC2  
-✔ Distributed Data Processing  
-
----
-
-### 📚 Libraries & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-✔ Pandas  
-✔ NumPy  
-✔ Scikit-learn  
-✔ NLTK  
-✔ SpaCy  
-✔ Matplotlib  
-
----
-
-## 🏆 Certifications
+## 🚀 Skills & Tech Stack
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=F7B801&center=true&vCenter=true&width=500&lines=NPTEL+Certified+in+Machine+Learning;Continuous+Learning+%7C+Skill+Development;Exploring+Advanced+AI+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?color=F7B801&center=true&vCenter=true&width=700&lines=Python+%7C+Java+%7C+SQL+%7C+PySpark+%7C+AWS;Machine+Learning+%7C+Data+Engineering+%7C+Big+Data;Scikit-Learn+%7C+NLTK+%7C+SpaCy+%7C+Matplotlib;Apache+Spark+%7C+Distributed+Data+Processing;Feature+Engineering+%7C+Predictive+Modeling" />
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,aws,git,github" />
 </p>
 
 ---
@@ -88,7 +48,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/shivkumar31/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -96,7 +56,7 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/shivkumar31">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 </p>
@@ -106,7 +66,7 @@
 ## 📄 Resume
 
 <p align="center">
-<a href="YOUR_RESUME_LINK">
+<a href="https://github.com/shivkumar31/Resume/blob/main/Shiv_Kumar.pdf">
 <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-success?style=for-the-badge" />
 </a>
 </p>
