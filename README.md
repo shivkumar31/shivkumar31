@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I%27m%20Shiv%20Kumar&descAlignY=60&descAlign=50" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33FF57&center=true&vCenter=true&width=900&lines=Integrated+M.Tech+CSE+Student;Data+Science+Enthusiast+%7C+ML+Developer;Skilled+in+Python,+Java,+SQL,+AWS;Building+Scalable+Data+Solutions...;Welcome+to+My+Digital+Space!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33FF57&center=true&vCenter=true&width=900&lines=Integrated+M.Tech+CSE+Student;Data+Science+Enthusiast+%7C+ML+Developer;Building+Scalable+Data+Solutions...;Welcome+to+My+Digital+Space!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,14 +13,18 @@
   
   <br>
 
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" />
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="180" align="right" />
 
-  <br>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=120&lines=🎓+Integrated+M.Tech+in+CSE+(Computational+%26+Data+Science);🏫+Student+at+VIT+Bhopal+University+(2022+–+2027);💡+Passionate+about+building+scalable+ML+solutions;☁️+Exploring+Cloud+Computing+%26+Big+Data+Processing;📊+Transforming+raw+data+into+Meaningful+Insights" alt="About Me Typing" />
-  </a>
+  <div align="left">
+    <p>🎓 <b>Integrated M.Tech in CSE</b> (Computational & Data Science)</p>
+    <p>🏫 <b>VIT Bhopal University</b> (2022 – 2027)</p>
+    <p>💡 Passionate about building scalable <b>Data Science & Machine Learning</b> solutions</p>
+    <p>☁️ Exploring <b>Cloud Computing & Big Data Processing</b></p>
+    <p>📊 Transforming raw data into <b>Meaningful Insights</b></p>
+  </div>
 </div>
+
+<br clear="all" />
 
 ---
 
@@ -40,24 +44,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&height=50&lines=💼+Internship+Experience+💼" alt="Internship Header" />
 
   <h3>🏢 Software Development Intern – Imperative Code (2025)</h3>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=900&height=70&lines=✔+Designed+normalized+MySQL+schemas+for+large+datasets;✔+Optimized+SQL+joins+reducing+query+runtime+by+25%25;✔+Automated+KPI+monitoring+using+SQL+stored+procedures;✔+Built+analytics+workflows+for+business+intelligence" alt="Internship Typing" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=50&lines=📈+Live+GitHub+Stats+📈" alt="Stats Header" />
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=shivkumar31&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivkumar31&theme=radical&hide_border=true" height="150" alt="streak graph" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkumar31&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-  </p>
+  
+  <div align="left">
+    <p>✔ Designed normalized <b>MySQL schemas</b> for large datasets</p>
+    <p>✔ Optimized <b>SQL joins</b> reducing query runtime by <b>25%</b></p>
+    <p>✔ Automated <b>KPI monitoring</b> using SQL stored procedures</p>
+    <p>✔ Built <b>analytics workflows</b> for business intelligence</p>
+  </div>
 </div>
 
 ---
