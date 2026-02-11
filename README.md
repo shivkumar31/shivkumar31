@@ -32,7 +32,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A020F0&center=true&vCenter=true&width=600&height=50&lines=🛠️+Tools+%26+Technologies+🛠️" alt="Tools Header" />
 
   <marquee behavior="scroll" direction="left" scrollamount="20" loop="infinite">
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,aws,git,github" height="60" alt="skills" />
     <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,pytorch" height="60" alt="skills" />
     <img src="https://skillicons.dev/icons?i=python,java,mysql,aws,git,github" height="60" alt="skills" />
   </marquee>
