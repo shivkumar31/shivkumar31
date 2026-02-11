@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I%27m%20Shiv%20Kumar&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30,40,50&height=200&section=header&text=Shiv%20Kumar&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=50" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33FF57&center=true&vCenter=true&width=900&lines=Integrated+M.Tech+CSE+Student;Data+Science+Enthusiast+%7C+ML+Developer;Building+Scalable+Data+Solutions...;Welcome+to+My+Digital+Space!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F45E61&center=true&vCenter=true&width=900&lines=Integrated+M.Tech+CSE+Student;Data+Science+Enthusiast+%7C+ML+Developer;Building+Scalable+Data+Solutions...;Welcome+to+My+Digital+Space!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F45E61&center=true&vCenter=true&width=500&height=50&lines=⚡+About+Me+⚡" alt="About Me Header" />
@@ -26,7 +26,7 @@
 
 <br clear="all" />
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A020F0&center=true&vCenter=true&width=600&height=50&lines=🛠️+Tools+%26+Technologies+🛠️" alt="Tools Header" />
@@ -38,7 +38,7 @@
   </marquee>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&height=50&lines=💼+Internship+Experience+💼" alt="Internship Header" />
@@ -53,10 +53,10 @@
   </div>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30,40,50&height=100&section=footer" width="100%" />
   
   <p align="center">
     <a href="https://www.linkedin.com/in/shivkumar31/">
