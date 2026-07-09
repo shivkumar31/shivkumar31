@@ -3,7 +3,7 @@
 # 👨‍💻 Shiv Kumar
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F45E61&center=true&vCenter=true&width=900&lines=Data+Science+%7C+Data+Engineering+%7C+Machine+Learning;Building+Scalable+Data+Pipelines+%26+ML+Solutions;Big+Data+Analytics+%7C+Cloud+Computing+Enthusiast;Welcome+to+My+Data+Universe!+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F45E61&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Generative+AI+%7C+Data+Science;Building+LLM-Powered+Applications+%26+Intelligent+Systems;Machine+Learning+%7C+RAG+%7C+Multi-Agent+Systems;Welcome+to+My+AI+Journey!+🚀" />
 </a>
 
 </div>
@@ -21,10 +21,10 @@
 🎓 Integrated M.Tech in **Computer Science & Engineering** (Computational & Data Science)  
 🏫 **Vellore Institute of Technology** (2022 – 2027)  
 
-💡 Passionate about designing **end-to-end Data Solutions**  
-📊 Skilled in **Machine Learning, Data Analytics & Statistical Modeling**  
-⚙️ Interested in building **Scalable Data Pipelines & Distributed Systems**  
-☁️ Exploring **Cloud Platforms & Big Data Technologies**
+💡 Passionate about building **AI-powered Applications & Intelligent Systems**  
+🤖 Skilled in **Generative AI, Machine Learning, NLP & Retrieval-Augmented Generation (RAG)**  
+⚙️ Experienced with **LLMs, Multi-Agent Systems, FastAPI & End-to-End AI Pipelines**  
+📚 Exploring **Agentic AI, Advanced LLM Architectures & Scalable AI Solutions**
 
 </div>
 
@@ -37,7 +37,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A020F0&center=true&vCenter=true&width=600&height=50&lines=🛠️+Skills+🛠️" />
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,pytorch,sklearn,pandas,numpy,mysql,apache,aws,git,github" height="60"/>
+<img src="https://skillicons.dev/icons?i=python,java,pytorch,sklearn,fastapi,mysql,git,github,vscode" height="60"/>
 </p>
 
 </div>
@@ -50,10 +50,10 @@
 
 ### 🏢 Software Development Intern – Imperative Code (2025)
 
-✔ Designed normalized **MySQL schemas** for structured data storage  
-✔ Optimized complex **SQL joins**, improving query performance by **25%**  
-✔ Automated **KPI monitoring pipelines** using stored procedures  
-✔ Built data-driven **analytics workflows** supporting business intelligence  
+✔ Designed and normalized **MySQL schemas** for enterprise-scale applications  
+✔ Optimized complex **SQL queries**, improving average execution performance by **30%**  
+✔ Collaborated with cross-functional teams to develop and maintain scalable backend solutions  
+✔ Applied **data analysis and database optimization** techniques to improve application performance  
 
 ---
 
@@ -63,12 +63,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=📈+Core+Interests+📈" />
 </div>
 
-- Machine Learning Model Development  
-- Data Pipeline Architecture  
-- Big Data Processing using Apache Spark  
-- Predictive Analytics & Statistical Modeling  
-- Cloud-Based Data Engineering  
-- Business Intelligence & Data Visualization  
+- Generative AI & Large Language Models (LLMs)  
+- Retrieval-Augmented Generation (RAG) Systems  
+- Multi-Agent AI Workflows & Agentic AI  
+- Machine Learning & Natural Language Processing  
+- AI Application Development with FastAPI  
+- Data Science, Model Evaluation & Intelligent Automation  
 
 ---
 
