@@ -37,7 +37,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A020F0&center=true&vCenter=true&width=600&height=50&lines=🛠️+Skills+🛠️" />
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,pytorch,sklearn,fastapi,mysql,git,github,vscode" height="60"/>
+<img src="https://skillicons.dev/icons?i=python,java,pytorch,sklearn,fastapi,git,github" height="60"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-6E40C9?style=for-the-badge"/>
 </p>
 
 </div>
